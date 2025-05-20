@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Hardcoded Git username/email
-GIT_USERNAME="your_email@example.com"
+GIT_USERNAME="syarief.hidayatulloh%40compnet.co.id"
 
 # Minta password dari user (disembunyikan saat input)
 read -s -p "Masukkan password untuk Git: " GIT_PASSWORD
